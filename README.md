@@ -1,96 +1,108 @@
 <!-- ===================== -->
-<!--  GitHub Profile README -->
+<!--   CLEAN CYBER PROFILE -->
 <!-- ===================== -->
 
 <h1 align="center">MD RASEL HOSSAIN</h1>
 
 <p align="center">
-  <b>Cybersecurity Enthusiast | Aspiring Penetration Tester | Offensive Security Learner</b>
+Cybersecurity Enthusiast | Offensive Security Learner | Future Penetration Tester
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=700&lines=Ethical+Hacking+%7C+Offensive+Security;Web+Application+Security+%7C+Pentesting;Learning+Everyday+%7C+Breaking+to+Protect" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00FF00&center=true&vCenter=true&width=650&lines=Offensive+Security;Ethical+Hacking;Web+Application+Security;Learning+By+Doing"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I am an **intermediate-level cybersecurity learner** with a strong focus on **offensive security and penetration testing**.  
-I actively practice **system hacking, web application security, and vulnerability assessment**, and I believe in **learning by doing**.
 
-- 🎯 Goal: Become a professional **Penetration Tester / Ethical Hacker**
-- 🧠 Mindset: *Understand deeply, exploit responsibly, secure effectively*
-- 🛡️ Currently improving real-world attack & defense skills
+Cybersecurity learner focused on **Offensive Security, Penetration Testing, and Vulnerability Assessment**.  
+Practicing through labs, real-world simulations, and hands-on security testing environments.
+
+🎯 Goal → Professional Penetration Tester  
+🧠 Mindset → Understand → Exploit → Secure  
+🛡 Focus → Real-world attack & defense methodology  
 
 ---
 
 ## 🧠 Core Skills
-- **Penetration Testing**
-- **Ethical Hacking**
-- **Offensive Security**
-- **Web Application Security**
-- **System Hacking**
-- **Vulnerability Assessment**
-- **Network Security (Fundamentals)**
-- **Linux Security Basics**
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Penetration_Testing-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Offensive_Security-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_App_Security-030712?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Hacking-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Network_Security-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux_Security-020617?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🛠️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,python,html,css,bootstrap" />
+## ⚔ Security Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,python,bash,html,css,bootstrap"/>
 </p>
 
-**Security Tools & Frameworks**
-- Kali Linux  
-- Metasploit Framework  
-- Burp Suite  
-- Nmap  
-- SQLmap  
-- Hydra  
-- John The Ripper  
-- Wireshark  
-- Ettercap  
-- Nessus  
-- Acunetix  
-- Linux CLI & Shell Utilities  
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kali_Linux-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Metasploit-darkgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Burp_Suite-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nmap-darkgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQLmap-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hydra-darkgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/John_The_Ripper-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Wireshark-darkgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nessus-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Acunetix-darkgreen?style=flat-square"/>
+
+</p>
 
 ---
 
 ## 💻 Programming & Scripting
-- **Python** – Basic / Learning (for automation & security scripts)
-- **HTML / CSS / Bootstrap** – Web fundamentals (useful for web security testing)
-- **Bash (basic exposure)** – Linux command-line usage
 
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaselHossain79&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaselHossain79&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Bash-020617?style=for-the-badge&logo=gnubash"/>
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-020617?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap"/>
+
 </p>
 
 ---
 
-## 🔗 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/rasel-hossain-73b954395" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+## 📊 Activity
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaselHossain79&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🧩 Quote & Mindset
-> **"The more I learn, the more I realize how much there is to secure."**  
-> — Learning to break systems responsibly to make them stronger
+## 🌐 Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rasel-hossain-73b954395">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
 
 ---
 
+## ⚠ Ethics
+
 <p align="center">
-  <b>⚠️ Ethical Notice:</b> All skills are practiced in legal labs and authorized environments only.
+All cybersecurity skills are practiced only in authorized and legal environments.
 </p>
 
 <p align="center">
-  <i>Learning • Practicing • Improving — One exploit at a time</i>
+Learning • Practicing • Improving • Securing
 </p>
