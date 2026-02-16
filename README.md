@@ -45,7 +45,7 @@ Practicing through labs, real-world simulations, and hands-on security testing e
 ## ⚔ Security Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,python,bash,html,css,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=linux,kali,python,bash,html,css,bootstrap"/>
 </p>
 
 <p align="center">
