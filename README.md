@@ -60,6 +60,7 @@ Practicing through labs, real-world simulations, and hands-on security testing e
 <img src="https://img.shields.io/badge/Wireshark-darkgreen?style=flat-square"/>
 <img src="https://img.shields.io/badge/Nessus-black?style=flat-square"/>
 <img src="https://img.shields.io/badge/Acunetix-darkgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/OWASP ZAP-black?style=flat-square"/>
 
 </p>
 
