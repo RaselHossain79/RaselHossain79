@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/⚡_Focus-Web%20App%20%26%20System%20Security-00FF41?style=for-the-badge&labelColor=01177"/>
+<img src="https://img.shields.io/badge/⚡_Focus-Web%20App%20%26%20System%20Security-00FF41?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/🔥_Status-Learning%20%26%20Grinding-FF4136?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/🎯_Goal-Professional%20Pentester-0074D9?style=for-the-badge&labelColor=0d1117"/>
 
@@ -167,7 +167,6 @@ Mindset    : Understand → Exploit → Report → Secure
 
 </div>
 
-
 ### 🟠 Web Application Testing
 <div align="center">
 
@@ -193,7 +192,8 @@ Mindset    : Understand → Exploit → Report → Secure
 <img src="https://skillicons.dev/icons?i=linux,python,bash,html,css,bootstrap&theme=dark"/>
 
 <br/><br/>
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
@@ -342,17 +342,3 @@ HTML/CSS → Phishing simulation, web vulnerability testing
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer)
 
 </div>
-</a>
-</p>
-
----
-
-## ⚠ Ethics
-
-<p align="center">
-All cybersecurity skills are practiced only in authorized and legal environments.
-</p>
-
-<p align="center">
-Learning • Practicing • Improving • Securing
-</p>
