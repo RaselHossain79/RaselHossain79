@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/⚡_Focus-Web%20App%20%26%20System%20Security-00FF41?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/⚡_Focus-Web%20App%20%26%20System%20Security-FF851B?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/🔥_Status-Learning%20%26%20Grinding-FF4136?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/🎯_Goal-Professional%20Pentester-0074D9?style=for-the-badge&labelColor=0d1117"/>
 
