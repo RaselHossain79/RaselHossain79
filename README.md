@@ -1,9 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=200&section=header&text=MD%20RASEL%20HOSSAIN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20%7C%20Ethical%20Hacker&descAlignY=55&descSize=18)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=200&section=header&text=MD%20RASEL%20HOSSAIN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Offensive%20Security%20%7C%20Ethical%20Hacker&descAlignY=55&descSize=18)
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=750&height=60&lines=MD+RASEL+HOSSAIN;Web+Application+Security+Learner;System+%26+Server+Hacker+in+Training;Ethical+Hacker+%7C+Bug+Hunter;Think+Like+an+Attacker.+Defend+Like+a+Pro.)](https://git.io/typing-svg)
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=850&color=00FF41&center=true&vCenter=true&width=750&height=60&lines=Ethical+Hacker+%7C+Bug+Hunter;Web+Application+Security;System+%26+Server+Security;Penetration+Tester;Think+Like+an+Attacker.+Defend+Like+a+Pro.)
 
 <br/>
 
