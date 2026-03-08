@@ -30,12 +30,10 @@
 <tr>
 <td width="40%" valign="middle" align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=280&lines=+Cybersecurity+Enthusiast;+Offensive+Security+Learner;+Ethical+Hacker+in+Training;+CTF+Player+%26+Lab+Rat;+Future+Penetration+Tester"/>
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rasel-hossain-73b954395)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/RaselHossain79)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/theloser)
 [![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com)
 
 </td>
