@@ -17,7 +17,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RaselHossain79&color=00FF41&style=flat-square&label=👁️+Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=RaselHossain79&color=FF4136&style=flat-square&label=👁️+Profile+Views)
 
 </div>
 
