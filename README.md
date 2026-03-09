@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=850&color=00FF41&center=true&vCenter=true&width=750&height=60&lines=Penetration+Tester+%7C+Bug+Hunter;Web+Application+Security;System+%26+Server+Security;Think+Like+an+Attacker.+Defend+Like+a+Pro.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=870&color=00FF41&center=true&vCenter=true&width=750&height=60&lines=Penetration+Tester+%7C+Bug+Hunter;Web+Application+Security;System+%26+Server+Security;Think+Like+an+Attacker.+Defend+Like+a+Pro.)
 
 <br/>
 
