@@ -241,18 +241,6 @@ HTML/CSS → Phishing simulation, web vulnerability testing
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaselHossain79&bg_color=0d1117&color=00FF41&line=39FF14&point=FF4136&area_color=003300&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=6" width="100%"/>
-
-> ⚙️ **Want a 3D Contribution Graph?** Add this GitHub Action to your repo:
-> Create `.github/workflows/3d-contrib.yml` — I can generate the full workflow file for you.
-
-</div>
-
-
 
 ## 📊 Contributions
 
