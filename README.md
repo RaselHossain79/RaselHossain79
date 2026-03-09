@@ -13,13 +13,13 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasel-hossain-73b954395)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaselHossain79)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raselhossain79)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/theloser)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RaselHossain79&color=FF4136&style=flat-square&label=👁️+Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=raselhossain79&color=FF4136&style=flat-square&label=👁️+Profile+Views)
 
 </div>
 
@@ -124,14 +124,14 @@ Mindset    : Understand → Exploit → Report → Secure
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RaselHossain79&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&dates=ffffff&sideNums=00FF41&sideLabels=ffffff" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=raselhossain79&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=B10DC9&dates=ffffff&sideNums=00FF41&sideLabels=ffffff" width="100%"/>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaselHossain79/RaselHossain79/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaselHossain79/RaselHossain79/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RaselHossain79/RaselHossain79/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raselhossain79/raselhossain79/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raselhossain79/raselhossain79/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/raselhossain79/raselhossain79/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
@@ -335,7 +335,7 @@ HTML/CSS → Phishing simulation, web vulnerability testing
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasel-hossain-73b954395)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaselHossain79)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raselhossain79)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/theloser)
 
 <br/>
