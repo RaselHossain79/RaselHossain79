@@ -127,13 +127,11 @@ Mindset    : Understand → Exploit → Report → Secure
 ![System Hacking](https://img.shields.io/badge/System%20Hacking-FF4136?style=for-the-badge)
 ![Server & OS Security](https://img.shields.io/badge/Server%20%26%20OS%20Security-B10DC9?style=for-the-badge)
 
-<br/>
 
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-2ECC40?style=for-the-badge)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-FF851B?style=for-the-badge)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-FF4136?style=for-the-badge)
 
-<br/>
 
 ![OSINT](https://img.shields.io/badge/OSINT-0074D9?style=for-the-badge)
 ![Linux Security](https://img.shields.io/badge/Linux%20Security-2ECC40?style=for-the-badge)
@@ -154,7 +152,7 @@ Mindset    : Understand → Exploit → Report → Secure
 ![Hydra](https://img.shields.io/badge/Hydra-8E44AD?style=for-the-badge&logo=linux&logoColor=white)
 ![Netcat](https://img.shields.io/badge/Netcat-FF4136?style=for-the-badge&logo=gnu&logoColor=white)
 
-</div>
+
 
 <br/>
 
@@ -169,8 +167,6 @@ Mindset    : Understand → Exploit → Report → Secure
 
 </div>
 
-<br/>
-
 ### 🟠 Web Application Testing
 <div align="center">
 
@@ -180,7 +176,6 @@ Mindset    : Understand → Exploit → Report → Secure
 
 </div>
 
-<br/>
 
 ### 🟢 Password Cracking & Forensics
 <div align="center">
