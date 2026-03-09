@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=egg&color=0:0d1117,100:003300&height=180&text=MD%20RASEL%20HOSSAIN&fontColor=00FF41&fontSize=40&fontAlignY=45&desc=Offensive%20Security%20%7C%20Web%20App%20Security%20%7C%20System%20Hacking&descAlignY=70&descSize=16&descColor=ffffff)
 
 <div align="center">
-  
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=870&color=00FF41&center=true&vCenter=true&width=750&height=60&lines=Penetration+Tester+%7C+Bug+Hunter;Web+Application+Security;System+%26+Server+Security;Think+Like+an+Attacker.+Defend+Like+a+Pro.)
 
 <br/>
@@ -156,6 +156,8 @@ Mindset    : Understand → Exploit → Report → Secure
 
 </div>
 
+<br/>
+
 ### 🔵 Reconnaissance & Scanning
 <div align="center">
 
@@ -167,6 +169,8 @@ Mindset    : Understand → Exploit → Report → Secure
 
 </div>
 
+<br/>
+
 ### 🟠 Web Application Testing
 <div align="center">
 
@@ -175,6 +179,8 @@ Mindset    : Understand → Exploit → Report → Secure
 ![Acunetix](https://img.shields.io/badge/Acunetix-E74C3C?style=for-the-badge)
 
 </div>
+
+<br/>
 
 ### 🟢 Password Cracking & Forensics
 <div align="center">
@@ -186,12 +192,15 @@ Mindset    : Understand → Exploit → Report → Secure
 
 </div>
 
+<br/>
+
 ### 🖥️ Platforms & OS
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,python,bash,html,css,bootstrap&theme=dark"/>
 
 <br/><br/>
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -225,7 +234,7 @@ HTML/CSS → Phishing simulation, web vulnerability testing
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/RaselHossain79)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/theloser)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com)
 [![PortSwigger](https://img.shields.io/badge/PortSwigger%20Labs-FF6633?style=for-the-badge)](https://portswigger.net/web-security)
 [![VulnHub](https://img.shields.io/badge/VulnHub-E74C3C?style=for-the-badge)](https://www.vulnhub.com)
@@ -241,10 +250,17 @@ HTML/CSS → Phishing simulation, web vulnerability testing
 
 ---
 
-
 ## 📊 Contributions
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RaselHossain79&theme=matrix&no-frame=true&row=1&column=6" width="100%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=RaselHossain79&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&dates=ffffff&sideNums=00FF41&sideLabels=ffffff" width="100%"/>
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaselHossain79/RaselHossain79/output/github-contribution-grid-snake-dark.svg"/>
