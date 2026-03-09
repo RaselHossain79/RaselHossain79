@@ -153,9 +153,6 @@ Mindset    : Understand → Exploit → Report → Secure
 ![Netcat](https://img.shields.io/badge/Netcat-FF4136?style=for-the-badge&logo=gnu&logoColor=white)
 
 
-
-<br/>
-
 ### 🔵 Reconnaissance & Scanning
 <div align="center">
 
@@ -186,8 +183,6 @@ Mindset    : Understand → Exploit → Report → Secure
 ![Nessus](https://img.shields.io/badge/Nessus-00B388?style=for-the-badge)
 
 </div>
-
-<br/>
 
 ### 🖥️ Platforms & OS
 <div align="center">
