@@ -119,6 +119,26 @@ Mindset    : Understand → Exploit → Report → Secure
 
 ---
 
+
+## 📊 Contributions
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RaselHossain79&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&dates=ffffff&sideNums=00FF41&sideLabels=ffffff" width="100%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaselHossain79/RaselHossain79/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaselHossain79/RaselHossain79/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RaselHossain79/RaselHossain79/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+
 ## 🧠 Core Skills
 
 <div align="center">
@@ -242,23 +262,6 @@ HTML/CSS → Phishing simulation, web vulnerability testing
 
 ---
 
-## 📊 Contributions
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=RaselHossain79&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&dates=ffffff&sideNums=00FF41&sideLabels=ffffff" width="100%"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaselHossain79/RaselHossain79/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaselHossain79/RaselHossain79/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RaselHossain79/RaselHossain79/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
 
 ## 💡 Security Philosophy
 
