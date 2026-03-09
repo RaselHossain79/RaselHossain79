@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=200&section=header&text=MD%20RASEL%20HOSSAIN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Offensive%20Security%20%7C%20Ethical%20Hacker&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=egg&color=0:0d1117,100:003300&height=180&text=MD%20RASEL%20HOSSAIN&fontColor=00FF41&fontSize=40&fontAlignY=45&desc=Offensive%20Security%20%7C%20Web%20App%20Security%20%7C%20System%20Hacking&descAlignY=70&descSize=16&descColor=ffffff)
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=850&color=00FF41&center=true&vCenter=true&width=750&height=60&lines=Red+Teamer+%7C+Bug+Hunter;Web+Application+Security;System+%26+Server+Security;Penetration+Tester;Think+Like+an+Attacker.+Defend+Like+a+Pro.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=850&color=00FF41&center=true&vCenter=true&width=750&height=60&lines=Penetration+Tester+%7C+Bug+Hunter;Web+Application+Security;System+%26+Server+Security;Think+Like+an+Attacker.+Defend+Like+a+Pro.)
 
 <br/>
 
