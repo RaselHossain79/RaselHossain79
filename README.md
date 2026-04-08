@@ -20,6 +20,20 @@
 
 ---
 
+
+## 📊 Contributions
+
+<div align="center">
+
+[![streak-stats](https://streak-stats.demolab.com?user=raselhossain79&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=B10DC9&dates=ffffff&sideNums=00FF41&sideLabels=ffffff)](https://github.com/raselhossain79)
+
+![github-snake](https://raw.githubusercontent.com/raselhossain79/raselhossain79/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+
 ## 👾 whoami
 
 ```
@@ -82,17 +96,6 @@
 
 ---
 
-## 📊 Contributions
-
-<div align="center">
-
-[![streak-stats](https://streak-stats.demolab.com?user=raselhossain79&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=B10DC9&dates=ffffff&sideNums=00FF41&sideLabels=ffffff)](https://github.com/raselhossain79)
-
-![github-snake](https://raw.githubusercontent.com/raselhossain79/raselhossain79/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 🧠 Core Skills
 
