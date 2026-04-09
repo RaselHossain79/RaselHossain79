@@ -92,7 +92,7 @@
 
 | Project | Description | Topics |
 |---------|-------------|--------|
-| 📁 [**server-deployment-notes**](https://github.com/raselhossain79/server-deployment-notes) | Linux server deployment & security hardening — SSH hardening, UFW firewall, Fail2Ban, Cloudflare Tunnel | `Linux` `Ubuntu` `SSH` `UFW` `Fail2Ban` `Cloudflare` |
+| 📁 [**server-deployment-notes**]([https://github.com/raselhossain79/server-deployment-notes](https://github.com/raselhossain79/Server_Deployment_Notes/tree/main/Local-VM)) | Linux server deployment & security hardening — SSH hardening, UFW firewall, Fail2Ban, Cloudflare Tunnel | `Linux` `Ubuntu` `SSH` `UFW` `Fail2Ban` `Cloudflare` |
 
 ---
 
